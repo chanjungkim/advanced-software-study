@@ -54,3 +54,5 @@
 ## Code Review
 
 [백명석-코드 리뷰가 왜 중요하고 필요한지](https://www.slideshare.net/codetemplate/2019-11code-review)
+
+[Kakao Tech-뉴크루 온보딩 코드 리뷰어로 참여하기](https://tech.kakao.com/2021/04/08/welcome-new-krew3/)
